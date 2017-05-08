@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Matematicamente</string>
+    <string name="start">Iniciar</string>
+    <string name="minimumNumber">Menor Número (0 a 100)</string>
+    <string name="maximumNumber">Maior Número (1 a 100)</string>
+    <string name="timeToAnswer">Tempo (em segundos)</string>
+    <string name="fillAll">Preencha todos os campos</string>
+    <string name="errorMax">Erro no maior número</string>
+    <string name="errorMin">Erro no menor número</string>
+    <string name="errorTime">Erro no tempo</string>
+    <string name="minBigger">Erro, menor número não pode ser maior.</string>
+    <string name="title_activity_level">Level</string>
+    <string name="secondsLeft">Segundos Restantes</string>
+    <string name="score">Pontuação</string>
+    <string name="correct">Correto!</string>
+    <string name="wrong">Errado!</string>
+    <string name="playAgain">Jogar Novamente</string>
+    <string name="finalScore">Sua pontuação final é: </string>
+    <string name="level1">Nível 1\nOperações de Adição e Subtração</string>
+    <string name="level2">Nível 2\nOperações de Multiplicação e Divisão</string>
+    <string name="level3">Nível 3\nTodas as operações</string>
+    <string name="level4">Nível 4\nEscolha o tempo, menor e maior números para todas as operações</string>
+    <string name="play">Iniciar</string>
+    <string name="preference_file_key">br.com.mariorsjr.matematicamente</string>
+    <string name="saved_high_score_level1">highScoreLevel1</string>
+    <string name="saved_high_score_level2">highScoreLevel2</string>
+    <string name="saved_high_score_level3">highScoreLevel3</string>
+    <string name="saved_high_score_level4">highScoreLevel4</string>
+    <string name="your_high_score">Sua maior pontuação é: </string>
+    <!--TODO enter your banner ad unit id-->
+    <string name="banner_ad_unit_id"></string>
+</resources>

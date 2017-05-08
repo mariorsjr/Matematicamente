@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "435196493226",
+    "firebase_url": "https://matematicamente-ea2ec.firebaseio.com",
+    "project_id": "matematicamente-ea2ec",
+    "storage_bucket": "matematicamente-ea2ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435196493226:android:de64176dc48734d7",
+        "android_client_info": {
+          "package_name": "br.com.mariorsjr.matematicamente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435196493226-jk97q636qjg9h2f1pjt2ac54s8n8rsol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.mariorsjr.matematicamente",
+            "certificate_hash": "cd874fa69ef08847d35363476c2378aa3995401d"
+          }
+        },
+        {
+          "client_id": "435196493226-laqlkcf520jod0bk67vlvidnhkdqjr06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfXlSaoXmMTTclj08ktFUxEFP4tZwQD1k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435196493226-laqlkcf520jod0bk67vlvidnhkdqjr06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
